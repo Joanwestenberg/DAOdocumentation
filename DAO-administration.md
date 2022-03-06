@@ -1,0 +1,5 @@
+In a DAO, anyone is free to put themselves up for consideration as a leader or administrator by initiating a proposal that will go into effect via majority vote if it garners enough support from other members. Any member of a DAO can put themselves up for consideration as an administrator by initiating a proposal that will go into effect via majority vote if it garners enough support from other members.
+
+DAO leaders will be required to rotate on a monthly basis, to ensure that all members get a chance to lead and that no individual or small group of leaders build up too much power. Each leader should have enough time to properly execute their role without being burdened by administrative work during their term. We also recommend limiting leadership rotations to a maximum of one per year per member.
+
+Administrators are required to have 5+ years of proven track record in their field of expertise. Administrators can be added by holding a vote for the administrator privilege, which will require approval by 75% of the community via 2/3rds majority.
